@@ -1,0 +1,22 @@
+.container {
+    font-family: 'Dosis', sans-serif;
+}
+
+body {
+    background-color: lightpink;
+    text-align: center;
+
+}
+
+h1 {
+    color: rgb(73, 53, 55);
+}
+
+.friend {
+    background-color: whitesmoke;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
